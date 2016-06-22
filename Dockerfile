@@ -1,4 +1,4 @@
-FROM crossbuilder/c7-gui-base:testing
+FROM crossbuilder/c7-gui-base:latest
 
 MAINTAINER crossbuilder
 
