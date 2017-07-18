@@ -11,6 +11,7 @@ RUN yum -y install xinetd gcc git subversion zlib-devel ncurses-devel openssl-de
 		fontconfig.i686 libXext.i686 libXrender.i686 glib2.i686 libpng12.i686 libSM.i686 \
 		usbutils expect \
 		python34 nc \
+		rdfind \
 		bash-completion kdiff3 ; \
                 yum clean all
 
